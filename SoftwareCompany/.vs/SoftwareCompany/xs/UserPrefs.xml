@@ -1,20 +1,14 @@
 ﻿<Properties StartupConfiguration="{33DA6A64-C2AD-44B8-A99C-122F162D1495}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SoftwareCompany/CSMiddleDeveloper.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoftwareCompany/JSJuniorDeveloper.cs">
     <Files>
-      <File FileName="SoftwareCompany/DeveloperType.cs" Line="13" Column="13" />
-      <File FileName="SoftwareCompany/DeveloperBuilder.cs" Line="22" Column="49" />
-      <File FileName="SoftwareCompany/Developer.cs" Line="7" Column="26" />
-      <File FileName="SoftwareCompany/JSSeniorDeveloper.cs" Line="36" Column="2" />
-      <File FileName="SoftwareCompany/Program.cs" Line="18" Column="39" />
-      <File FileName="SoftwareCompany/JSMiddleDeveloper.cs" Line="35" Column="2" />
-      <File FileName="SoftwareCompany/JSJuniorDeveloper.cs" Line="35" Column="2" />
+      <File FileName="SoftwareCompany/JSJuniorDeveloper.cs" Line="24" Column="9" />
       <File FileName="SoftwareCompany/CSJuniorDeveloper.cs" Line="9" Column="35" />
-      <File FileName="SoftwareCompany/JavaSeniorDeveloper.cs" Line="18" Column="43" />
-      <File FileName="SoftwareCompany/RecrutmentDepartment.cs" Line="16" Column="46" />
-      <File FileName="SoftwareCompany/CSMiddleDeveloper.cs" Line="11" Column="17" />
+      <File FileName="SoftwareCompany/JavaSeniorDeveloper.cs" Line="18" Column="38" />
+      <File FileName="SoftwareCompany/RecrutmentDepartment.cs" Line="11" Column="54" />
+      <File FileName="SoftwareCompany/CSMiddleDeveloper.cs" Line="13" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SoftwareCompany FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SoftwareCompany PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
