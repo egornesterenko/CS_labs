@@ -1,0 +1,6 @@
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/bin/Debug/SoftwareCompany.exe
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/bin/Debug/SoftwareCompany.pdb
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/obj/x86/Debug/SoftwareCompany.csprojAssemblyReference.cache
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/obj/x86/Debug/SoftwareCompany.csproj.CoreCompileInputs.cache
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/obj/x86/Debug/SoftwareCompany.exe
+/Users/Egor/c#/SoftwareCompany/SoftwareCompany/obj/x86/Debug/SoftwareCompany.pdb
